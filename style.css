@@ -1,0 +1,54 @@
+.but{
+    background-image: url(https://icon-library.com/images/start-button-icon-png/start-button-icon-png-7.jpg);
+    background-size: 80px 80px;
+    border-radius:60px ;
+    width: 80px;
+    height: 80px;
+    border-style: none;
+    margin-top: 190px;
+    margin-right: 75px;
+    
+}
+.but1{
+    background-image: url(https://th.bing.com/th/id/R.b685dc0590ebc2349a577c692a67746b?rik=Qm0nAw8cQDGH8w&riu=http%3a%2f%2fpngimg.com%2fuploads%2fsign_stop%2fsign_stop_PNG25626.png&ehk=%2b6SJktuRpZkGgeyL3texBYGbsbflLDXvhu4IRdBxFHQ%3d&risl=&pid=ImgRaw&r=0);
+    background-size: 80px 80px;
+    width: 80px;
+    height: 80px;
+    margin-top: 190px;
+    margin-right: 75px;
+    border-style: none;
+}
+#reset{
+    background-image: url(https://icon-library.com/images/reset-icon-png/reset-icon-png-25.jpg);
+    background-size: 80px 80px;
+    border-radius: 60px;
+    width: 80px;
+    height: 80px;
+    border-style: none;
+    margin-top: 190px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+}
+.box{
+    background-image: url(https://jacquierobinsonphotography.files.wordpress.com/2013/06/pretty-night-sky-428.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 540px;
+    height: 340px;
+    color: rgb(247, 221, 221);
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 180px;
+}
+h1{
+    position: absolute;
+    left: 495px;
+    top: 270px;
+}
